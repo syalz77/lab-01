@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** Ali Zaidi
-- **CCID:** `sazaidi
+- **CCID:** sazaidi
 
 ## References and Resources
 
