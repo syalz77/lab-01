@@ -5,7 +5,7 @@ import java.util.Date;
 public class HappyMood extends Mood {
 
     public HappyMood() {
-        super();
+
     }
     public HappyMood(Date currentDate) {
         super(currentDate);

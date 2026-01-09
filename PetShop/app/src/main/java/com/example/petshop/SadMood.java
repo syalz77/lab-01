@@ -5,7 +5,7 @@ import java.util.Date;
 public class SadMood extends Mood{
 
     public SadMood() {
-        super();
+        
     }
     public SadMood(Date currentDate) {
         super(currentDate);
